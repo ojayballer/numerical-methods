@@ -15,18 +15,7 @@ Newton-Raphson
 Numerical Integration
  ```
 
-Each folder contains:
 
-** The core Python implementation of the method **
-
-A dedicated README.md file that explains:
-```
-**What the method does**
-**When and why to use it**
-**Sample inputs/outputs**
-**Execution instructions**
-**Optionally, visualizations of the computed results**
-```
 Purpose
 
 This project serves as a learning tool for:
