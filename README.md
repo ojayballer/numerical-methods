@@ -1,4 +1,4 @@
-Computational Methods (Numerical Methods)
+**Computational Methods (Numerical Methods)** 
 
 This repository contains well-documented implementations of some various Numerical Methods in Python ;a core part of computational mathematics and scientific computing. Each method focuses on solving real-world mathematical problems such as solving equations, interpolation, integration, differential equations, and more.
 
