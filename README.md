@@ -1,26 +1,17 @@
-**Computational Methods (Numerical Methods)** 
+# numerical methods
 
-This repository contains well-documented implementations of some various Numerical Methods in Python ;a core part of computational mathematics and scientific computing. Each method focuses on solving real-world mathematical problems such as solving equations, interpolation, integration, differential equations, and more.
+Python implementations of core numerical methods. Built these while taking computational mathematics coursework.
 
-What’s Inside
-The repo is organized into multiple folders,each representing a different numerical method or concept. These include:
-```
-LU Decomposition
-Discrete Fourier Transform (DFT)
-Fast Fourier Transform (FFT)
-Cubic Spline Interpolation
-Thomas Algorithm
-Runge-Kutta Methods
-Newton-Raphson
-Numerical Integration
- ```
+## what's in here
 
+- **root finding** : Newton-Raphson, secant method
+- **numerical integration** : trapezoid rule
+- **numerical differentiation**
+- **differential equation approximation** : Runge-Kutta methods, Thomas algorithm
+- **linear algebra** : LU decomposition
+- **fourier transforms** : DFT, FFT
+- **spline interpolation** : cubic spline
 
-Purpose
+## license
 
-This project serves as a learning tool for:
-```
-**Students taking Computational or Numerical Methods courses**
-**Anyone interested in applying numerical solutions to mathematical and engineering problems**
-**Developers who want to understand and visualize these techniques from scratch**
-```
+MIT
